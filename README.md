@@ -14,3 +14,8 @@ Built with **Python**, **Speedtest-cli**, and **Rich**.
    ```bash
    git clone [https://github.com/xelt1n/zisp.git](https://github.com/xelt1n/zisp.git)
    cd zisp
+
+## ⌨️ Global Shortcut
+To run `zisp` from anywhere in your terminal, add this alias to your `.bashrc` or `.zshrc`:
+```bash
+alias zisp='python3 /path/to/your/zisp/zisp.py'
